@@ -19,4 +19,4 @@ orthogonal unless we rewrite the code.
 working. However, it is not.
 
 The fourth file, queen_bez.c is an early approximation of a queen we were going to use. It is created using Bezier
-curves.
+curves. The 3 bitmap images are used as textures to display Queens.
