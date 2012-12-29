@@ -3,9 +3,8 @@ opengl-mini-project
 
 This is a college mini project that me and a friend have been working on for some time now.
 
-It is a graphical implementation of the n-queens problem. This is the first time we have ever dealt with 
-APIs and there are some obvious deficiencies which will be overcome as soon as we figure out how to remove
-those deficiencies.
+It is a graphical implementation of the n-queens problem. This is the first time I have dealt with 
+APIs so there are some minor problems.
 
 Until then we have three files:
 
